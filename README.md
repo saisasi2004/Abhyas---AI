@@ -110,6 +110,9 @@ Find your dream jobs in seconds with intelligent job matching powered by AI.
 
 **🔗 [https://abhyas-client.vercel.app/](https://abhyas-client.vercel.app/)**
 
+### **📘 Read the User Manual**
+**[Instruction Manual](https://abhyas-client.vercel.app/Abhyas%20AI%20-%20User%20Manual.pdf)**
+
 ### 💼 **Your future self will thank you. Start preparing smarter, not harder.**
 
 </div>
