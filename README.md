@@ -48,11 +48,14 @@ Get scored on Grammar, Confidence, Technical Strength, Communication, and even B
 ### 📹 **Live Face & Posture Tracking**
 Let AI guide you to perfect your on-camera presence and professional appearance.
 
-</td>
-<td width="50%">
-
 ### 📄 **Resume Enhancer**
 Boost your resume with AI tips that align with real job descriptions and recruiter expectations.
+
+### 🧪 **AI Quiz Coach**
+Test your knowledge with intelligent quizzes that adapt to your skill level and provide detailed explanations for better learning.
+
+</td>
+<td width="50%">
 
 ### 💻 **AI Code Practice**
 Solve real coding challenges and get instant technical analysis to sharpen your problem-solving skills.
@@ -62,6 +65,15 @@ Craft impactful, personalized cover letters in seconds - no writing skills neede
 
 ### 🧭 **Career Navigator**
 Find your dream jobs in seconds with intelligent job matching powered by AI.
+
+### 👥 **AI Group Discussion**
+Practice group discussion scenarios with AI participants and improve your collaborative communication skills.
+
+### 🎨 **AI Portfolio Booster**
+Transform your Github & Linkedin portfolio with AI-driven suggestions to showcase your projects and skills more effectively.
+
+### 🎯 **Interview with Expert** *(Coming Soon)*
+Get personalized coaching sessions with industry experts to fine-tune your interview performance.
 
 </td>
 </tr>
@@ -137,7 +149,7 @@ Find your dream jobs in seconds with intelligent job matching powered by AI.
 
 <div align="center">
 
-`#JobReady` `#AIThatCares` `#CareerBooster` `#AbhyasAI` `#SmarterPreparation` `#GetHired`
+#JobReady #AIThatCares #CareerBooster #AbhyasAI #SmarterPreparation #GetHired
 
 </div>
 
@@ -185,6 +197,6 @@ Find your dream jobs in seconds with intelligent job matching powered by AI.
 
 ---
 
-**⭐ If this project helped you, please give it a star! ⭐**
+**⭐ If this product helped you, please give it a star! ⭐**
 
 </div>
