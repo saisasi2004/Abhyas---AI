@@ -139,7 +139,7 @@ Get personalized coaching sessions with industry experts to fine-tune your inter
   <strong>Gampa Sai Sasivardhan</strong><br>
   **Passionate Robotics Enthusiast & AI Developer**
   
-  [![Portfolio](https://img.shields.io/badge/🌟_View_Portfolio-FF6B6B?style=for-the-badge)](https://saisasi2004.github.io/My-Portfolio/)
+  [![Portfolio](https://img.shields.io/badge/🌟_View_Portfolio-FF6B6B?style=for-the-badge)](https://saisasi2004.github.io/saisasi2004/)
   
 </div>
 
@@ -190,13 +190,3 @@ Get personalized coaching sessions with industry experts to fine-tune your inter
 <div align="center">
 
 ### **🎯 Ready to dominate your next interview?**
-
-[![Get Started](https://img.shields.io/badge/🚀_Start_Your_Journey-Success?style=for-the-badge&logo=target&logoColor=white&color=ff6b6b)](https://abhyas-client.vercel.app/)
-
-**Transform your career preparation today with Abhyas AI!**
-
----
-
-**⭐ If this product helped you, please give it a star! ⭐**
-
-</div>
